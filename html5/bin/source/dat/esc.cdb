@@ -841,7 +841,7 @@
 							"id": "3",
 							"file": "../../assets/data/scene008/number.png",
 							"image": "b855c1bc8234e3fae9cf625c29a10d2f",
-							"x": 128,
+							"x": 144,
 							"y": 242,
 							"click": "number",
 							"off": "UNLOCK_GATE_F"
@@ -1514,11 +1514,8 @@
 			"lines": [
 				{
 					"id": 1,
-					"answer": "あいうえお",
+					"answer": "とちぎ",
 					"choices": [
-						{
-							"letter": "あ"
-						},
 						{
 							"letter": "い"
 						},
@@ -1526,10 +1523,34 @@
 							"letter": "う"
 						},
 						{
-							"letter": "え"
+							"letter": "か"
 						},
 						{
-							"letter": "お"
+							"letter": "が"
+						},
+						{
+							"letter": "ぎ"
+						},
+						{
+							"letter": "ぐ"
+						},
+						{
+							"letter": "さ"
+						},
+						{
+							"letter": "ず"
+						},
+						{
+							"letter": "た"
+						},
+						{
+							"letter": "ち"
+						},
+						{
+							"letter": "と"
+						},
+						{
+							"letter": "な"
 						}
 					]
 				}
