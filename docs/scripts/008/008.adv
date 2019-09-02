@@ -1,7 +1,7 @@
 def number
 {
-	NUM_INPUT(80, 4)
-	if($80 == 1231) {
+	PANEL_INPUT(1)
+	if($RET) {
 		":ロックが解除された"
 		%UNLOCK_GATE_F = true
 	}
