@@ -24,6 +24,6 @@ BOOL,1
 SET,16,61
 FUNC_END,star
 FUNC_START,hint
-MSG,9,「ー」と書いてある
+MSG,9,「どうぞ」と書いてある
 FUNC_END,hint
 END

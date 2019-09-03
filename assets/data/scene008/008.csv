@@ -10,7 +10,7 @@ GOTO,00000011
 MSG,9,正しくないようだ
 FUNC_END,number
 FUNC_START,hint
-MSG,9,「S」と書いてある
+MSG,9,「３回」と書いてある
 FUNC_END,hint
 FUNC_START,star1
 BOOL,1

@@ -12,7 +12,7 @@ def number
 
 def hint
 {
-	":「S」と書いてある"
+	":「３回」と書いてある"
 }
 
 def star1

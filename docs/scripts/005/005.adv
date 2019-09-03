@@ -28,7 +28,7 @@ def kuchinashi
 
 def hint
 {
-	":「ャ」と書いてある"
+	":「シャープペンシル」と書いてある"
 }
 
 def star1

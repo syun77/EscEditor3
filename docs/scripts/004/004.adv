@@ -1,7 +1,7 @@
 def number
 {
 	NUM_INPUT(40, 2)
-	if($40 == 12) {
+	if($40 == 13) {
 		":ロックが解除された"
 		%UNLOCK_GATE_C = true
 	}
@@ -12,7 +12,7 @@ def number
 
 def hint
 {
-	":「チ」と書いてある"
+	":「Ｙｅｓ，　Ｉ＇ｍ　ｈｅｒｅ．」と書いてある"
 }
 
 def star1

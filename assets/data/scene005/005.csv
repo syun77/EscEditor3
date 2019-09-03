@@ -20,7 +20,7 @@ FUNC_START,kuchinashi
 MSG,9,クチナシの花が描かれている
 FUNC_END,kuchinashi
 FUNC_START,hint
-MSG,9,「ャ」と書いてある
+MSG,9,「シャープペンシル」と書いてある
 FUNC_END,hint
 FUNC_START,star1
 BOOL,1

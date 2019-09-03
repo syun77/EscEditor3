@@ -55,6 +55,6 @@ FUNC_START,hint
 MSG,9,何かのヒントのようだ
 FUNC_END,hint
 FUNC_START,hint2
-MSG,9,「ル」と書いてある
+MSG,9,「バック」と書いてある
 FUNC_END,hint2
 END

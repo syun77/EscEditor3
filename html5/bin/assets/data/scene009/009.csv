@@ -4,7 +4,7 @@ INT,90
 INT,3
 PIC_INPUT
 VAR,90
-INT,50328
+INT,81328
 EQ
 IF,00000014
 BOOL,1
@@ -79,7 +79,7 @@ SET,16,98
 GOTO,00000080
 FUNC_END,input
 FUNC_START,sticker
-MSG,9,「衝撃を与えることで扉は開く」と書いてある
+MSG,9,「マナーを守って脱出しましょう」と書いてある
 FUNC_END,sticker
 FUNC_START,complete
 COMPLETE
